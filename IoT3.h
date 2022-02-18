@@ -23,8 +23,8 @@
  */
 // #define WITH_DEFAULT
 
-#define DEF_SSID        "Grimard Wifi"
-#define DEF_PASSWORD    "Vaccin21"
+#define DEF_SSID        "Wifi name"
+#define DEF_PASSWORD    "Mot de passe"
 #define DEF_NAME        "Store_July"
 #define DEF_MQTT_SERVER "test.mosquitto.org"
 #define DEF_MQTT_PORT   "1883"
