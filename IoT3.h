@@ -29,7 +29,7 @@
 #define DEF_MQTT_SERVER "test.mosquitto.org"
 #define DEF_MQTT_PORT   "1883"
 #define DEF_APSSID      "TheMATRIX"
-#define DEF_APPSK       "thereisnospoon"
+#define DEF_APPSK       "password"
 
 #define MAX_SSID        32
 #define MAX_PASSWORD    63
